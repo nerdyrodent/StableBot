@@ -1,5 +1,5 @@
 # StableBot
-A very basic bot for generating Stable Diffusion images via the text-generation-webui. Works in chat mode as it sends images.
+A very basic bot for generating Stable Diffusion images (via it's API) inside a text-generation-webui chat session. Works best in non-streaming chat mode as it sends images.
 
 https://github.com/oobabooga/text-generation-webui
 
